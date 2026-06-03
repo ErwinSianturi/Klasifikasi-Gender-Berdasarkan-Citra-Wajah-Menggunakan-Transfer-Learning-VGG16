@@ -152,10 +152,3 @@ plt.show()
 ```
 
 ---
-
-## 👥 Anggota Kelompok 10
-
-* **Nama Anggota Kelompok 10** - *Semester 6 - Universitas/Instansi*
-
----
-*Proyek ini disusun dan diselesaikan sebagai tugas praktikum/akhir mata kuliah Kecerdasan Buatan (CERTAN).*
